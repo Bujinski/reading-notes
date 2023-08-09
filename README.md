@@ -10,4 +10,4 @@ Instead of viewing setbacks as ~~failures~~, we should see them as valuable lear
 
 Effort ***is the path*** to mastery
 
-https://github.com/Bujinski
+[https://github.com/Bujinski](https://github.com/Bujinski)
