@@ -1,4 +1,4 @@
-# reading-notes
+# My reading journal
 
 ## My reading journal for Code Fellows
 
@@ -9,3 +9,5 @@ Challenges are _opportunities for me to learn and grow_
 Instead of viewing setbacks as ~~failures~~, we should see them as valuable learning
 
 Effort ***is the path*** to mastery
+
+https://github.com/Bujinski
