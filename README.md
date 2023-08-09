@@ -1,10 +1,11 @@
 # reading-notes
-My reading journal for Code Fellows
 
-Growth mindset is a way of thinking that believes our abilities and intelligence can be developed through effort and learning
+## My reading journal for Code Fellows
 
-Challenges are opportunities for me to learn and grow
+**Growth mindset** is a way of thinking that believes our abilities and intelligence can be developed through effort and learning
 
-Instead of viewing setbacks as failures, we should see them as valuable learning
+Challenges are _opportunities for me to learn and grow_
 
-Effort is the path to mastery
+Instead of viewing setbacks as ~~failures~~, we should see them as valuable learning
+
+Effort ***is the path*** to mastery
