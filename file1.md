@@ -40,3 +40,8 @@
   
 > For example: [https://github.com/Bujinski](https://github.com/Bujinski)
 
+### Q: What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+
+- +, *, or -.
+
+> For example: -text, -text, -text. 
