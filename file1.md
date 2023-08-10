@@ -44,4 +44,4 @@
 
 - +, *, or -.
 
-> For example: -text, -text, -text. 
+> For example: -text, -text, -text.
