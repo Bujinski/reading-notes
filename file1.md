@@ -25,3 +25,16 @@
 - Heading sizes range between x1 # and x6 #. To make the smallest uses 6 x # (######).
 
 > For example: ###### Heading (small)
+
+### Q: When making text bold or italicized for emphasis, it is best practice to use which symbol?
+
+- You can use either * or _ symbols when making text bold. You can use either ** or __ symbols when making text italicized.
+
+> For example: **text bold** and *text italicized*
+
+### Q: How do you create a link with Markdown?
+
+- Take the text you want to hyperlink and wrap in [ ].
+  
+> For example: [Text]
+
