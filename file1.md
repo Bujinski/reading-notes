@@ -16,12 +16,12 @@
 
 ### Q: How many do you need to create the largest heading?
 
-- ###### Heading (small) To make the largest you will use 1 x # (#), and the smallest uses 6 x # (######).
+- Heading sizes range between x1 # and x6 #. To make the largest you will use 1 x # (#), and the smallest uses 6 x # (######).
 
 > For example: # Heading (big)
 
 ### Q: How many do you need to create the smallest heading?
 
-- 
+- Heading sizes range between x1 # and x6 #. To make the smallest uses 6 x # (######).
 
 > For example: ###### Heading (small)
