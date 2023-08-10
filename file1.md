@@ -37,5 +37,6 @@
 - Take the text you want to hyperlink and wrap in [ ].
 
 - Next put the URL link next to it in (). This will create a link that goes to GitHub and will tell the user by the text GitHub that this routs to that site.
-> For example: []
+  
+> For example: [https://github.com/Bujinski](https://github.com/Bujinski)
 
