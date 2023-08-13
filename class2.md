@@ -42,3 +42,27 @@
 
 ## Q: Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 
+1) cd projects
+
+> This is changing the directory (cd) to the projects folder.
+
+2) mkdir new-project
+
+> This is making (mkdir) a new directory that is named new-project.
+
+3) touch new-project/newfile.md
+
+> This is making (touch) a new file (newfile.md) in the folder new-project.
+
+> This will go to that directory (new-project) and create the new file (newfile.md).
+
+4) cd ..
+
+> This is changing directories by going back to the previous folder.
+
+> Changes with x1 . stays in the same directory, x2 .. goes back one, etc.
+
+5) ls projects/new-project
+
+> This is listing (ls) everything in the folder (new-project) by moving/changing directories through the path projects -> new-project.
+
