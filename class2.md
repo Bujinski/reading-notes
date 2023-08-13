@@ -1,6 +1,6 @@
 # The Coder’s Computer
 
-## What are four important features to look for in a text editor?
+## Q: What are four important features to look for in a text editor?
 
 1) **Syntax Highlighting**:
 
@@ -17,3 +17,28 @@
 8) **Version Control Integration**:
 
 * Integration with version control systems like Git can be crucial, especially for software development. The ability to commit, pull, push, and manage branches directly from your text editor can streamline collaborative coding and version management.
+
+## Q: What do the following commands do?
+
+* pwd
+
+> Print Working Directory
+
+* ls
+
+> list
+
+* cd 
+
+> Change Directory
+
+* mkdir
+
+> Make Directory
+
+* touch
+
+> Create File
+
+## Q: Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
+
