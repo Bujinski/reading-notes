@@ -12,7 +12,7 @@
 
 - [Design web pages with CSS](102/Design-web-pages-with-CSS.md)
 
-- [Activate web pages with JavaScript](102/Activate-web-pages-with-JavaScript.md)
+- [Dynamic web pages with JavaScript](102/Dynamic-web-pages-with-JavaScript.md)
 
 - [Programming with JavaScript](102/Programming-with-JavaScript.md)
 
