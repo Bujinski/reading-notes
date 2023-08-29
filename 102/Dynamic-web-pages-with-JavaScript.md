@@ -45,3 +45,15 @@ It is noted (syntax) as an **=**but doesn’t operate as such. It acts as the br
 > Input.
 
 > - For example, the **prompt()** function will ask the user for information, that is referred to as input. The user can then enter a value and this can be saved to use for other purposes.
+
+## Additional Notes:
+
+> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+> [Introduction to JavaScript - basic output](https://code-maven.com/introduction-to-javascript)
+
+> [JavaScript input with prompt and confirm](https://code-maven.com/javascript-input-with-prompt-and-confirm)
+
+> [JavaScript Variables](https://www.w3schools.com/js/js_variables.asp)
+
+> [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)

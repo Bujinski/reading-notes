@@ -24,12 +24,12 @@ To add style and modify the structure of a webpage. This can be achieved a numbe
 
 > **p {color: red}**
 
-### Reference Websites:
+## Additional Notes:
 
-1) [What is CSS?](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+> [What is CSS?](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
-2) [CSS reference](https://www.w3schools.com/css/css_howto.asp)
+> [CSS reference](https://www.w3schools.com/css/css_howto.asp)
 
-3) [How To Add CSS](https://www.w3schools.com/cssref/pr_text_color.php)
+> [How To Add CSS](https://www.w3schools.com/cssref/pr_text_color.php)
 
-4) [CSS color Property](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+> [CSS color Property](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)

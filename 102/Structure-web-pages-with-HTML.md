@@ -36,3 +36,14 @@ The entirety of parts is called an element. The 3 main parts of an element is an
 
 - Think about the purpose of this code, and what role it plays. Instead of thinking about the appearance, when talking about semantics, we are thinking about why it is there and what its effect is.
 
+## Additional Notes:
+
+> [The Definitive Guide: How To Make Your First Wireframe](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+
+> [HTML basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+
+> [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+
+> [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+> [HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)

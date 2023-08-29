@@ -66,3 +66,12 @@
 
 > This is listing (ls) everything in the folder (new-project) by moving/changing directories through the path projects -> new-project.
 
+## Additional Notes:
+
+> [Choosing A Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+
+> [The Command Line!](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
+> [Basic Navigation!](https://ryanstutorials.net/linuxtutorial/navigation.php)
+
+> [More About Files!](https://ryanstutorials.net/linuxtutorial/aboutfiles.php) 

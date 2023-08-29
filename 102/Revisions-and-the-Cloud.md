@@ -23,3 +23,11 @@ git commit -m will commit your changes, meaning it sends it to GitHub as a snaps
 ## Q: What is the command to send your changed files to Github?
 
 git push will send your committed changes (or snapshot) to GitHub. Once this is done, your branch should be up-to-date and identical in both locations - local (your computer) as well as remote (GitHub).
+
+## Additional Notes:
+
+> [Git Tutorial: A Comprehensive Guide](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+
+- Read only up through the section called “Seeing Your Remote”.
+
+- Feel free to skim the “Getting Started” instructions, do not follow along with that section for now.
